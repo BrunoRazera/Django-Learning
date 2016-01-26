@@ -1,0 +1,12 @@
+<Doctype html>
+	<html>
+		<h1>Bookmark</h1>
+		<form>
+		<input type="text" name="título">
+		<input type="submit">		
+		</form>
+		<scrip> </script>
+
+			
+
+	</html>
