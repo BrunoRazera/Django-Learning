@@ -1,0 +1,10 @@
+li a {
+	color: orange;
+	font-size: 30px;
+}
+
+div {
+	border-radius: round;
+	background-color: gray;
+	width: 400;
+}
