@@ -8,3 +8,7 @@ div {
 	background-color: gray;
 	width: 400;
 }
+
+body {
+    background: white url("images/background.gif") no-repeat right bottom;
+}
